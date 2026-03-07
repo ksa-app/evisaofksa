@@ -22,7 +22,7 @@ export default function VisaCard() {
         <div className="info">
           <div className="row">
             <div className="label">Visa No.</div>
-            <div className="value">6156048495</div>
+            <div className="value">6156048410</div>
           </div>
           <div className="row">
             <div className="label">Religion</div>
@@ -30,7 +30,7 @@ export default function VisaCard() {
           </div>
           <div className="row">
             <div className="label">Passport Expiry</div>
-            <div className="value">23/11/2030</div>
+            <div className="value">10/02/2034</div>
           </div>
           <div className="row">
             <div className="label">Nationality</div>
@@ -38,7 +38,7 @@ export default function VisaCard() {
           </div>
           <div className="row">
             <div className="label">Date of Birth</div>
-            <div className="value">19/05/1985</div>
+            <div className="value">08/11/1996</div>
           </div>
           <div className="row">
             <div className="label">Sex</div>
@@ -48,9 +48,9 @@ export default function VisaCard() {
       </div>
 
       <div className="mrz">
-        &lt;BGDKHAN&lt;&lt;MD&lt;ASHRAF&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+        &lt;BGDJOYNUL ISLAM&lt;&lt;SHEKH MD&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
         <br />
-        A20973575BGD15052000103092033&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;02
+        A14051028BGD15052000103092033&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;02
       </div>
 
       <div className="status">Valid</div>
