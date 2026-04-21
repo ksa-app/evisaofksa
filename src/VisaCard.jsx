@@ -30,7 +30,7 @@ export default function VisaCard() {
           </div>
           <div className="row">
             <div className="label">Passport Expiry</div>
-            <div className="value">10/02/2034</div>
+            <div className="value">30/11/2035</div>
           </div>
           <div className="row">
             <div className="label">Nationality</div>
@@ -38,7 +38,8 @@ export default function VisaCard() {
           </div>
           <div className="row">
             <div className="label">Date of Birth</div>
-            <div className="value">08/11/1996</div>
+            <div className="value">12/05/2003
+</div>
           </div>
           <div className="row">
             <div className="label">Sex</div>
@@ -48,9 +49,9 @@ export default function VisaCard() {
       </div>
 
       <div className="mrz">
-        &lt;BGDJOYNUL ISLAM&lt;&lt;SHEKH MD&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+        &lt;BGDSAHARIYA&lt;&lt;MD&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
         <br />
-        A14051028BGD15052000103092033&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;02
+        A21038657BGD15052000103092033&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;02
       </div>
 
       <div className="status">Valid</div>
